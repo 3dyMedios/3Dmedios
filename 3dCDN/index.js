@@ -2,7 +2,7 @@ if( !window.mudiExperience ){
     class MudiExperience{
 
         constructor(){
-            this.color              = "#c54b06";
+            this.color              = "#33a5ff";
             this.dataSever          = null;
             this.skuNumber          = null;
             this.fatherContainer    = null;
@@ -175,28 +175,30 @@ if( !window.mudiExperience ){
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step1" src="https://cdn.jsdelivr.net/gh/3dyMedios/3dymedios3D@main/assets/step3colchonesFantasia.webp">
+                                        <img class="stepMudi step1" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step3colchonesFantasia.webp">
+                                                                         
+
                                     </div>
                                     <p class="textInfoMudi">Apunta el teléfono al piso.</p>
                                 </div>
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step2" src="https://cdn.jsdelivr.net/gh/3dyMedios/3dymedios3D@main/assets/step4colchonesFantasia.webp">
+                                        <img class="stepMudi step2" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step4colchonesFantasia.webp">
                                     </div>
                                     <p class="textInfoMudi">Desplaza para visualizar.</p>
                                 </div>
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step3" src="https://cdn.jsdelivr.net/gh/3dyMedios/3dymedios3D@main/assets/step2colchonesFantasia.webp">
+                                        <img class="stepMudi step3" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step2colchonesFantasia.webp">
                                     </div>
                                     <p class="textInfoMudi">Amplia y detalla el producto.</p>
                                 </div>
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step4" src="https://cdn.jsdelivr.net/gh/3dyMedios/3dymedios3D@main/assets/step1colchonesFantasia.webp">
+                                        <img class="stepMudi step4" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step1colchonesFantasia.webp">
                                     </div>
                                     <p class="textInfoMudi">Toca dos veces para restablecer.</p>
                                 </div>
