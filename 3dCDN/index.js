@@ -42,7 +42,7 @@ if( !window.mudiExperience ){
             link = document.createElement('LINK');
             link.setAttribute('rel','stylesheet');
             link.id="stylesMudiGeneral";
-            link.href=`https://cdn.jsdelivr.net/gh/3dymedios/3dymedios3D@latest/index.cs`; /* custom this path */
+            link.href=`https://cdn.jsdelivr.net/gh/3dymedios/3dymedios3D@latest/index.css`; /* custom this path */
            
             document.head.appendChild(link)
         };
