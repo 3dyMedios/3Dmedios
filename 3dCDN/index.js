@@ -17,16 +17,14 @@ if( !window.mudiExperience ){
             try {
         
                 /** We make the request to the MUDI server */
-                const 
-                request = await fetch('https://mudiview.mudi.com.co:7443/product/getProductsUrl',{
+               const request = await fetch('https://03c1ca50-4a30-4d4f-b01c-dff83a0c1596-00-28m91vza06npg.riker.replit.dev/api/products/get-urls',{
                     method:'POST',
                     headers:{   "Content-type":"application/json",
-                                "tokenapi":"Hr6DpyHXjdvavYjfZ74h"
+                                // "tokenapi":"Hr6DpyHXjdvavYjfZ74h"
                     },
                     body: JSON.stringify(myBody)
                 })
-                const 
-                response = await request.json();
+                const response = await request.json();
                 this.dataServer = response.data[0];
                 console.log("este es el objeto", response.data[0])
         
