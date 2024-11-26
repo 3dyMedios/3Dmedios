@@ -42,8 +42,8 @@ if( !window.mudiExperience ){
             link = document.createElement('LINK');
             link.setAttribute('rel','stylesheet');
             link.id="stylesMudiGeneral";
-            link.href=`https://cdn.jsdelivr.net/gh/3dymedios/3dymedios3D@latest/index.css`; /* custom this path */
-           
+            link.href=` https://cdn.jsdelivr.net/gh/3dyMedios/3DmediosMaderkit@main/3dCDN/index.css`; /* custom this path */
+                      
             document.head.appendChild(link)
         };
     
@@ -175,7 +175,7 @@ if( !window.mudiExperience ){
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step1" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step3colchonesFantasia.webp">
+                                        <img class="stepMudi step1" src="https://cdn.jsdelivr.net/gh/3dyMedios/3DmediosMaderkit@main/3dCDN/assets/step3colchonesFantasia.webp">
                                                                          
 
                                     </div>
@@ -184,21 +184,21 @@ if( !window.mudiExperience ){
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step2" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step4colchonesFantasia.webp">
+                                        <img class="stepMudi step2" src="https://cdn.jsdelivr.net/gh/3dyMedios/3DmediosMaderkit@main/3dCDN/assets/step4colchonesFantasia.webp">
                                     </div>
                                     <p class="textInfoMudi">Desplaza para visualizar.</p>
                                 </div>
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step3" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step2colchonesFantasia.webp">
+                                        <img class="stepMudi step3" src="https://cdn.jsdelivr.net/gh/3dyMedios/3DmediosMaderkit@main/3dCDN/assets/step2colchonesFantasia.webp">
                                     </div>
                                     <p class="textInfoMudi">Amplia y detalla el producto.</p>
                                 </div>
     
                                 <div class="titleContainer">
                                     <div class="iconTitle">
-                                        <img class="stepMudi step4" src="https://cdn.jsdelivr.net/gh/3dyMedios/3Dmedios@main/3dCDN/assets/step1colchonesFantasia.webp">
+                                        <img class="stepMudi step4" src="https://cdn.jsdelivr.net/gh/3dyMedios/3DmediosMaderkit@main/3dCDN/assets/step1colchonesFantasia.webp">
                                     </div>
                                     <p class="textInfoMudi">Toca dos veces para restablecer.</p>
                                 </div>
