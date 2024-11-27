@@ -50,7 +50,7 @@ if (!window.mudiExperience) {
             const link = document.createElement('LINK');
             link.setAttribute('rel', 'stylesheet');
             link.id = "stylesMudiGeneral";
-            link.href = `https://cdn.jsdelivr.net/gh/3dymedios/3dymedios3D@latest/index.css`; /* Customiza este path */
+            link.href = `https://cdn.jsdelivr.net/gh/3dyMedios/CDNmaderkit@main/3dCDN/index.css`; /* Customiza este path */
 
             document.head.appendChild(link);
         }
